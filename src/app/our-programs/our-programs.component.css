@@ -1,0 +1,7 @@
+#shaping1{
+    transition: 0.3s;
+    background: radial-gradient(33.59% 43.93% at 50.13% 50%, rgba(255, 68, 0, 0.4) 0%, rgba(255, 68, 0, 0.063) 64.58%, rgba(255, 68, 0, 0) 100%), rgb(18, 18, 18);
+}
+#shaping2{
+background: radial-gradient(33.59% 43.93% at 50.13% 50%, rgb(0 67 255 / 40%) 0%, rgb(0 109 253 / 6%) 64.58%, rgb(15 34 126 / 0%) 100%), rgb(18, 18, 18);
+}
